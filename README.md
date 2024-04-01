@@ -9,9 +9,20 @@ To get started, clone this repository and navigate to the project directory.
 ```bash
 git clone <repository-url>
 cd todo-app
+```
+
+Install dependencies using npm:
+
+```bash
 npm install
+```
+
+Once the dependencies are installed, you can start the development server:
+
+```bash
 npm start
 ```
+
 ## Available Scripts
 
 In the project directory, you can run:
