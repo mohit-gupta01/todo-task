@@ -64,6 +64,10 @@ const TasksPanel = () => {
                     justifyContent: 'space-evenly',
                     alignItems: 'center',
                     width: '100%',
+                },
+                '.css-k008qs':{
+                    display: 'flex',
+                    justifyContent: 'space-evenly',
                 }
             }}>
                 <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
