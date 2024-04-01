@@ -1,6 +1,27 @@
-# Getting Started with Todo App
+# Todo App
 
-This project is a simple todo application built with React.
+This is a simple todo application built with React.
+
+## Getting Started
+
+To get started, clone this repository and navigate to the project directory.
+
+```bash
+git clone https://github.com/mohit-gupta01/todo-task.git
+cd todo-app
+```
+
+Install dependencies using npm:
+
+```bash
+npm install
+```
+
+Once the dependencies are installed, you can start the development server:
+
+```bash
+npm start
+```
 
 ## Available Scripts
 
