@@ -7,7 +7,7 @@ This is a simple todo application built with React.
 To get started, clone this repository and navigate to the project directory.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mohit-gupta01/todo-task.git
 cd todo-app
 ```
 
